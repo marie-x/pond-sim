@@ -21,3 +21,8 @@ Variables:
 - season / latitude
 - algae
 - duckweed
+
+Notes:
+- high ammonia levels will make your fish sick, or kill them
+- warmer water holds less oxygen
+- acidic water (6.0 or below) impairs function of beneficial bacteria 
